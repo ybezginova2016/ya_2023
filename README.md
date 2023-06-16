@@ -16,15 +16,15 @@ https://habr.com/ru/post/188010/
 https://habr.com/ru/post/78728/
 
 ## Задачи для тренировки: 
-https://leetcode.com/problems/longest-nice-substring/ 
-https://leetcode.com/problems/find-target-indices-after-sorting-array/ 
-https://leetcode.com/problems/number-of-arithmetic-triplets/ 
-https://leetcode.com/problems/reverse-words-in-a-string-iii/ 
-https://leetcode.com/problems/average-of-levels-in-binary-tree/ 
-https://leetcode.com/problems/unique-email-addresses/
-https://leetcode.com/problems/shortest-completing-word/
-https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
-https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/  
+* https://leetcode.com/problems/longest-nice-substring/ 
+* https://leetcode.com/problems/find-target-indices-after-sorting-array/ 
+* https://leetcode.com/problems/number-of-arithmetic-triplets/ 
+* https://leetcode.com/problems/reverse-words-in-a-string-iii/ 
+* https://leetcode.com/problems/average-of-levels-in-binary-tree/ 
+* https://leetcode.com/problems/unique-email-addresses/
+* https://leetcode.com/problems/shortest-completing-word/
+* https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
+* https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/  
 
 ## Основные типы алгоритмов: 
 - Два указателя 
